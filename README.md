@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 <span>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijinghuatongxue&hide=HTML" />
 </span>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lijinghuatongxue&repo=github-readme-stats)](https://github.com/lijinghuatongxue/server-go
