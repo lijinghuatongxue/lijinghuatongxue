@@ -8,8 +8,9 @@ Hi everyone:wave:, this is Sachan. Since the fool on the left is studying, so le
 
 - 🌻Improve his Golang 、Vue 、Shell、Python Programming level.
 - 🐳Research on container-related technologies
-- 🌴Be good at Sre DevOps
+- 🌴Be good at Sre Or DevOps
 - 🌱Focusing on Linux Terminal
+- 💰Busy making money and getting old
 
 #### :green_heart:He likes. . . .
 
