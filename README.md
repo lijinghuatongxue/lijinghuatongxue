@@ -6,15 +6,16 @@ Hi everyone:wave:, this is Sachan. Since the fool on the left is studying, so le
 
 #### 👨‍💻He is now. . . .
 
-- 🌻Improve his Golang Programming level.
+- 🌻Improve his Golang 、Vue 、Shell、Python Programming level.
 - 🐳Research on container-related technologies
-- 🌴Research malicious virus related technologies.
-- 🌱Learn Linux kernel related content.
+- 🌴Be good at Sre DevOps
+- 🌱Focusing on Linux Terminal
 
 #### :green_heart:He likes. . . .
 
-- :rocket:Universe、Celestial bodies 、Starry sky
+- :rocket:Everything that improves efficiency.
 - :tv:American TV series
+- 🎬Classic film
 - :video_game:Plot、management and collection games
 - :book:Reading
 - :octocat:Reinventing wheels
@@ -22,17 +23,16 @@ Hi everyone:wave:, this is Sachan. Since the fool on the left is studying, so le
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
-<p align="center"> 
-	<img src="https://visitor-badge.glitch.me/badge?page_id=Ascotbe.Ascotbe" align="middle" />
-</p>
+
 <p align="center">
   <a href="https://twitter.com/lijinghua001"><img src="/MySvgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
   <a href="https://weibo.com/5040235191"><img src="/MySvgs/weibo.svg" width="30px" alt="Weibo">    </a> &nbsp; &nbsp;
-  <a href="https://www.blog.lijinghua.club"><img src="/MySvgs/blog.svg" width="30px" alt="Weibo">    </a> &nbsp; &nbsp;
+  <a href="https://www.blog.lijinghua.club"><img src="/MySvgs/blog.svg" width="30px" alt="Blog">    </a> &nbsp; &nbsp;
 </p>
 <p align="center">
   <i> Open to anything under the stars :sparkles: </i>
 </p>
+
 
 
 
