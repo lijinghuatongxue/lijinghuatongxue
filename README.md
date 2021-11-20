@@ -46,4 +46,3 @@ Hi everyone:wave:, this is Sachan. Since the fool on the left is studying, so le
 </span>
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lijinghuatongxue&layout=compact)](https://github.com/lijinghuatongxue/lijinghuatongxue)
