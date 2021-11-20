@@ -35,7 +35,7 @@ Hi everyone:wave:, this is Sachan. Since the fool on the left is studying, so le
 </p>
 
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <span>
