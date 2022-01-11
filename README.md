@@ -45,4 +45,5 @@ Hi everyone:wave:, this is Sachan. Since the fool on the left is studying, so le
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijinghuatongxue&hide=HTML" />
 </span>
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lijinghuatongxue/langs?time_range=one_year&compact=True&theme=classic)](https://githubtrends.io)
 
